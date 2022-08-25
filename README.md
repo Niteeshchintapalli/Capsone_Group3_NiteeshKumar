@@ -1,4 +1,4 @@
-# capstone_group3_omsai
+# capstone_group3_NiteeshKumar
 # Team Members
 
 1.	Abdul Rehaman Shaik
